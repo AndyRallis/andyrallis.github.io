@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Andy the Actuary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 15:32:32 +0800</lastBuildDate><atom:link href="https://andyrallis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 15:45:34 +0800</lastBuildDate><atom:link href="https://andyrallis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Great Post Test</title>
+      <link>https://andyrallis.github.io/posts/a-great-post-test/</link>
+      <pubDate>Sat, 02 Jan 2021 15:45:34 +0800</pubDate>
+      
+      <guid>https://andyrallis.github.io/posts/a-great-post-test/</guid>
+      <description>Keep trying
+Image caption</description>
+    </item>
+    
     <item>
       <title>Testing blog post</title>
       <link>https://andyrallis.github.io/posts/my-first-post/</link>
